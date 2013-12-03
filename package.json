@@ -1,0 +1,8 @@
+{
+	"name": "hello",
+	"description": "hello world test app",
+	"version" : "0.0.1",
+	"private": {
+		"express": "3.x"
+	}
+}
